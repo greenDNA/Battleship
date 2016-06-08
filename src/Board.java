@@ -15,6 +15,7 @@ public class Board {
 	//public int boardRow, boardCol;
 	//public int boardX, boardY; //can be used to determine width and length of boards
 	
+	
 	public Board() {
 		initBoard();
 		printBoard();

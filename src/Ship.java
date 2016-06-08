@@ -14,6 +14,7 @@ public class Ship {
 		safe = true;
 	}
 	
+	
 	public Ship(int xPos, int yPos) {
 		this.xPos = xPos;
 		this.yPos = yPos;
